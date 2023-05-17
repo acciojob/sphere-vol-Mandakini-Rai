@@ -4,7 +4,7 @@ function volume_sphere(e) {
     let x = document.getElementById('radius').value;
 	// let ans = (4/3)*(22/7)*(x**3)
 	let ans;
-	if(x===5){
+	if(x==5){
 	 ans = 523.5988;
 	}
 	else{
